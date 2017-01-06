@@ -1,0 +1,12 @@
+Os dados abaixo contém nome, altura e gênero de um grupo de pessoas.
+Os dados são falsos e servem apenas para ilustrar o curso de Macroeconomia Aplicada.
+As variáveis estão separadas por ";" e os decimais estão separados por ",".
+
+Nome; Altura; Genero
+Paulo; 1,82; Masculino
+Francisco; 1,70; Masculino
+Maria; 1,75; Feminino
+Natalia; 1,60; Feminino
+Adamastor; 1,60; Masculino
+Tereza; 1,75; Feminino
+Marcos; 1,78; Masculino
